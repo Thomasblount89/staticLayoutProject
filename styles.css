@@ -9,17 +9,11 @@
 
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: #434146;
+  background-image: linear-gradient(to right, rgba(82, 0, 82, 0.952)1%, rgb(9, 3, 90)50%);
   overflow: hidden;
-  opacity: 0.6;
-
+  
 }
 
-.topnav{
-  padding: 0px 20px;
-  border: transparent;
-  /* opacity: 0.6; */
-}
 
 /*  nav bar restrictions */
 .topnav a {
